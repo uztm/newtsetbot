@@ -3,7 +3,7 @@ import logging
 from unittest import skip
 from aiogram import  Dispatcher, Bot , executor, types
 from aiogram.types import CallbackQuery, Message
-from numpy import real
+
 import markups as nav
 import dbText as tex
 import cafeArena
